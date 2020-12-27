@@ -1,0 +1,22 @@
+Preliminary Touches..
+
+
+* PYTHON-IDLE/Py-Charm [Python -- v3.5+]
+* Python-Modules -->    'requests 2.25.1'  .. .. .. [pip install requests]
+
+
+Third Party API Services:
+
+
+* D7 | SMS API (Register to get the SMS Integration options ----> 
+
+                    * HTTP API (upto 100 SMS/sec), 
+                    * REST API (upto 150 SMS/sec),
+                    * SOAP API (upto 100 SMS/sec),
+                    * SMPP ]
+                   
+* FAST2SMS (Allows Bulk SMS with credits upto Rs. 55/-)
+
+* TWILIO (Mostly used API)  'twilio 6.50.1'  .. .. .. [pip install twilio]
+
+* WAY2SMS (Not included, due to less grants -- approx FREE 2SMS/day)
